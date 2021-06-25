@@ -30,16 +30,30 @@ the movie ratings⭐️
 ----------------------------------------------------
                                             TECH STACK
 ----------------------------------------------------   
+
+
+
+
 -Kotlin
+
 -MVVM Architecture (Model -View - ViewModel)
+
 -LiveData - notify domain layer data to views.
+
 -Lifecycle - dispose observing data when lifecycle state changes.
+
 -ViewModel - UI related data holder, lifecycle aware.
+
 -Retrofit2 & Gson - constructing the REST API
+
 -OkHttp - implementing interceptor, logging and mocking web server
+
 -RecyclerView - implementing adapters and viewHolders
+
 -RxJava2 - For a seamless user experience
+
 -Glide - loading images
+
 -DataBinding
 
 
